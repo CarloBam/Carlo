@@ -1,7 +1,3 @@
----
-title: Carlo Bam
----
-
 # Welcome
 
 I am Carlo, a people analytics specialist and postgraduate data science student from Cape Town. I work with Python, SQL and BI tools to turn data into clear stories and practical decisions.
